@@ -5,8 +5,7 @@ Welcome to the `leetcode-haskell` repository, where Haskell's unique functional 
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Haskell](solutions/238.hs)|Medium|
-|973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Haskell](solutions/973.hs)|Medium|
+$PLACEHOLDER$
 
 
 ## Prerequisites
